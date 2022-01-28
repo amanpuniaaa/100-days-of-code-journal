@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+    background-repeat: 0;
+
+}
+
+h1{
+    text-align: center;
+    background-color: yellow;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+ul{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+}
